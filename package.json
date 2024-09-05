@@ -1,0 +1,23 @@
+{
+  "name": "vue-comp-form",
+  "version": "0.0.1",
+  "description": "A Vue.js form library inspired by react-hook-form for React.",
+  "homepage": "https://github.com/Dbevan770/vue-comp-form#readme",
+  "bugs": {
+    "url": "https://github.com/Dbevan770/vue-comp-form/issues"
+  },
+  "keywords": [],
+  "author": "Daniel Bevan",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "22.5.4",
+    "tsup": "8.2.4",
+    "typescript": "5.5.4"
+  }
+}
